@@ -1,0 +1,7 @@
+{
+  "codigo": "TU_CODIGO_6_DIGITOS",
+  "pass": "TU_CLAVE_5_DIGITOS",
+  "base_url": "http://bienestar.unsaac.edu.pe",
+  "captcha_url": "/simple-php-captcha.php?_CAPTCHA&t={t}",
+  "registro_url": "/registro.php"
+}

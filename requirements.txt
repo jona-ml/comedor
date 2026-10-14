@@ -1,0 +1,2 @@
+requests>=2.31
+ddddocr>=1.5
